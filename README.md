@@ -17,7 +17,7 @@ I enjoy building things from scratch—whether it’s a small webpage, a sleek U
 
 ## 📸 Creative Outlet: Photography
 
-Outside of coding, photography is one of my favorite ways to express creativity. From landscapes to street shots, I enjoy capturing unique perspectives.  
+Outside of coding, photography is one of my favorite ways to express creativity. From landscapes to plant photography, I enjoy capturing unique perspectives.  
 👉 Check out my work on Instagram – the link’s in my [GitHub bio](https://github.com/goebelj)!
 
 ## 📬 Get in Touch
