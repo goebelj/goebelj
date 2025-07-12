@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there, I'm Julian!
 
-<!--
-**goebelj/goebelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 18 years old and currently training to become an **IT Specialist in Application Development**. My passion lies in bringing creative ideas to life through code and design.
 
-Here are some ideas to get you started:
+## 💻 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Razor
+- HTML & CSS
+- C#
+- A little bit of Java
+
+I'm always expanding my skills and love working on projects where I can unleash my creativity and explore new techniques.
+
+## 🚀 Why I Code
+
+I enjoy building things from scratch—whether it’s a small webpage, a sleek UI, or backend logic that keeps things running smoothly. Every project is an opportunity to grow and challenge myself.
+
+## 📬 Get in Touch
+
+Got an idea to collaborate on, or just want to say hi? Reach out through GitHub or leave a comment on one of my repos.
+
+---
+
+Let’s make something awesome together! 🚀
