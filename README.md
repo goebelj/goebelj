@@ -7,6 +7,7 @@ I'm 18 years old and currently training to become an **IT Specialist in Applicat
 - Razor
 - HTML & CSS
 - C#
+- JavaScript
 - A little bit of Java
 
 I'm always expanding my skills and love working on projects where I can unleash my creativity and explore new techniques.
